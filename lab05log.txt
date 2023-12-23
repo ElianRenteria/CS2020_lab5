@@ -1,0 +1,72 @@
+Script started on 2021-09-30 22:47:41-07:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="80" LINES="24"]
+]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab05[006799085@csusb.edu@jb359-3 Lab05]$ ./lab05
+create a list of integers: 10
+ 20
+ 30
+ 40
+ 50
+ 60
+ 70
+ 80
+ 90
+ 0
+
+The size of the linked list is: 9
+90 80 70 60 50 40 30 20 10 
+Enter the key: 60
+
+is key in the list? 1
+
+How many values do yout want to remove? 3
+
+The list is:
+60 50 40 30 20 10 
+Create a list of string: jim
+ tom
+ alice
+ bob
+ ellen
+ bella
+ smith
+ don
+ exit
+
+The size of the linked list is: 8
+The linked list is:
+don smith bella ellen bob alice tom jim 
+How many values do you want to remove? 3
+
+The linked list is:
+ellen bob alice tom jim 
+Create a list of employees:
+
+Enqueue employee id, name, dept (enter id 0 to stop): 1
+ bob
+ cse
+
+Enqueue employee id, name, dept (enter id 0 to stop): 2
+ ellen
+ math
+
+Enqueue employee id, name, dept (enter id 0 to stop): 3
+ joe
+ art
+
+Enqueue employee id, name, dept (enter id 0 to stop): 4
+ mary
+ cse
+
+Enqueue employee id, name, dept (enter id 0 to stop): 0
+ end
+ end
+
+The size of the linked list is: 4
+The linked list is:
+4 mary cse 3 joe art 2 ellen math 1 bob cse 
+How many values do you want to remove? 2
+
+The linked list is:
+2 ellen math 1 bob cse ]0;006799085@csusb.edu@jb359-3:~/cse2020/Lab05[006799085@csusb.edu@jb359-3 Lab05]$ exit
+exit
+
+Script done on 2021-09-30 22:49:44-07:00 [COMMAND_EXIT_CODE="0"]
